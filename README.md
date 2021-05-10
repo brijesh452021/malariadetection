@@ -1,0 +1,1 @@
+The Model Classifies the Image as Infected/Uninfected from Malaria using Transfer Learning Technique.VGG16 Architecture is used with ImageNet weights where Input/ Output layers are getting replaced and rest of the remaining Layers are Freezed.
